@@ -1,5 +1,5 @@
 # 💅 Portfólio de Manicure  
-*Seu Nome | Manicure Profissional*
+*Manicure Profissional*
 
 ## 🌟 Sobre o Projeto
 Portfólio online desenvolvido para mostrar meus trabalhos em manicure, nail art e alongamentos. Uma vitrine digital para clientes conhecerem meu estilo e técnica.
