@@ -1,4 +1,4 @@
-# 💅 Portfólio de Manicure  
+# 💅 Portfólio para Manicure  
 *Manicure Profissional*
 
 ## 🌟 Sobre o Projeto
